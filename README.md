@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/{207660516}.svg)](https://zenodo.org/badge/latestdoi/{207660516})
+[![DOI](https://zenodo.org/badge/207660516.svg)](https://zenodo.org/badge/latestdoi/207660516)
 
 # Examples for UMAP-dimensionality reduction using 3D models of prehistoric animals
 
