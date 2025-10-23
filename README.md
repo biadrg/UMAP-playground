@@ -22,5 +22,11 @@ The Jupyter-Notebook contains code to produce [UMAP-embeddings](https://github.c
 
 # Citation
 
-If this dataset is useful in your research, please consider citing it via Zenodo [https://zenodo.org/badge/latestdoi/207660516](https://zenodo.org/badge/latestdoi/207660516), and make sure to give credit to the 3D-scans of the [Smithsonian](https://3d.si.edu/object/3d/mammuthus-primigenius-blumbach:341c96cd-f967-4540-8ed1-d3fc56d31f12).
+If this dataset is useful in your research, please consider citing it:
 
+Noichl, M. (2025). *Examples for UMAP-dimensionality reduction using 3D models of prehistoric animals* (Version 0.0.1) [Dataset]. Zenodo. [https://doi.org/10.5281/zenodo.17290165](https://doi.org/10.5281/zenodo.17290165)
+
+
+And consider giving credit to the 3D-scans of the Smithsonian Institution:
+
+Smithsonian Institution. (2020). Mammuthus primigenius (Blumbach). [3D model]. Smithsonian 3D. https://3d.si.edu/object/3d/mammuthus-primigenius-blumbach:341c96cd-f967-4540-8ed1-d3fc56d31f12
