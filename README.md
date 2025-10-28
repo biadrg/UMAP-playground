@@ -1,4 +1,8 @@
-# Examples for UMAP reduction using 3D models of prehistoric animals
+
+[![DOI](https://zenodo.org/badge/207660516.svg)](https://zenodo.org/badge/latestdoi/207660516)
+
+# Examples for UMAP-dimensionality reduction using 3D models of prehistoric animals
+
 
 The models are taken from the [Smithsonians 3D-scanning efforts](https://3d.si.edu/). I have included the datapoints for a Wolly Mammoth and a Tyrannosaur eating a Triceratops in the two .csv-files. 
 
@@ -16,3 +20,13 @@ The Jupyter-Notebook contains code to produce [UMAP-embeddings](https://github.c
 ![](T-rex_render.png)
 ![](t-rex-random.gif)
 
+# Citation
+
+If this dataset is useful in your research, please consider citing it:
+
+Noichl, M. (2025). *Examples for UMAP-dimensionality reduction using 3D models of prehistoric animals* (Version 0.0.1) [Dataset]. Zenodo. [https://doi.org/10.5281/zenodo.17290165](https://doi.org/10.5281/zenodo.17290165)
+
+
+And consider giving credit to the 3D-scans of the Smithsonian Institution:
+
+Smithsonian Institution. (2020). Mammuthus primigenius (Blumbach). [3D model]. Smithsonian 3D. https://3d.si.edu/object/3d/mammuthus-primigenius-blumbach:341c96cd-f967-4540-8ed1-d3fc56d31f12
